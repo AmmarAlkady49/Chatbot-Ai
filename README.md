@@ -25,7 +25,7 @@ A Flutter mobile app that integrates with Google's **Gemini API** to provide int
 | GIF Preview |
 |-------------|
 | <p align="center">
-  <img src="https://raw.githubusercontent.com/AmmarAlkady49/Chatbot-Ai/master/assets/media/recoding.gif" style="width: 60%;"/></p> |
+  <img src="https://raw.githubusercontent.com/AmmarAlkady49/Chatbot-Ai/master/assets/media/recoding.gif" style="width: 40%;"/></p> |
 
 ---
 
