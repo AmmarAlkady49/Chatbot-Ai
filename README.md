@@ -1,16 +1,71 @@
-# chatbot_ai
+# Gemini AI Flutter App 🤖📱
 
-A new Flutter project.
+A Flutter mobile app that integrates with Google's **Gemini API** to provide intelligent responses based on text and image inputs. Built using **BLoC** for scalable and reactive state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Text input with animated responses  
+- 📷 Image picker (Camera & Gallery)  
+- 🤖 Gemini API integration (text & vision support)  
+- 🎬 Text animation for a smoother UX  
+- 🚀 Native splash screen for fast startup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+| Input Page | Loading Animation | Response Display |
+|------------|-------------------|------------------|
+| ![Screenshot1](screenshots/Screenshot_1.png) | ![Screenshot2](screenshots/Screenshot_2.png) | ![Screenshot3](screenshots/Screenshot_3.png) |
+
+> *(Update with your actual screenshot paths or image links)*
+
+---
+
+## 🧠 State Management
+
+The app uses the **BLoC (Business Logic Component)** pattern to separate UI from business logic, ensuring a clear and maintainable code structure.
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**  
+- **BLoC**  
+- **Dart**  
+- **Gemini API (Google AI)**  
+- **Image Picker**  
+ 
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/AmmarAlkady49/Chatbot-Ai.git
+   cd chatbot_ai
+2. **Install dependencies**
+    ```bash
+    flutter pub get
+3. **Add your Gemini API key**<br>
+    Create a ```.env``` file or insert your API key securely in the project as needed:
+    ```bash
+    const String apiKey = 'YOUR_GEMINI_API_KEY';
+4. **Run the app**
+    ```bash
+    flutter run
+
+## 📦 Packages Used
+- ```google_generative_ai```
+- ```image_picker```  
+- ```flutter_native_splash```  
+- ```flutter_bloc```  
+
+## ☎️ Contact me 
+If you have any questions, suggestions, or feedback, feel free to reach out to me:<br>
+LinkedIn : (https://www.linkedin.com/in/ammar-alkady-97417b273/)<br>
+WhatsApp : (https://wa.me/qr/ASMC3F57GL5IO1)
+
