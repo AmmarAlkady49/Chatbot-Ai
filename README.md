@@ -16,11 +16,15 @@ A Flutter mobile app that integrates with Google's **Gemini API** to provide int
 
 ## 📸 Screenshots
 
-| Input Page | Loading Animation | Response Display |
+| Home Page | Image Picker | Chat History |
 |------------|-------------------|------------------|
-| ![Screenshot1](screenshots/Screenshot_1.png) | ![Screenshot2](screenshots/Screenshot_2.png) | ![Screenshot3](screenshots/Screenshot_3.png) |
+| ![Screenshot1](https://raw.githubusercontent.com/AmmarAlkady49/Chatbot-Ai/master/assets/media/initial_home_screen.png)|![Screenshot2](https://raw.githubusercontent.com/AmmarAlkady49/Chatbot-Ai/master/assets/media//image_picker.png)|![Screenshot3](https://raw.githubusercontent.com/AmmarAlkady49/Chatbot-Ai/master/assets/media/chat_history.png)|
 
-> *(Update with your actual screenshot paths or image links)*
+## 🎥 Demo
+
+| GIF Preview |
+|-------------|
+| ![Recording](https://raw.githubusercontent.com/AmmarAlkady49/Chatbot-Ai/master/assets/media/recoding.gif) |
 
 ---
 
